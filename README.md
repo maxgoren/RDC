@@ -1,2 +1,4 @@
 # RDC
-Simple Recursive Descent Calculator
+Simple Recursive Descent Calculator REPL
+
+Also supports assignment.
